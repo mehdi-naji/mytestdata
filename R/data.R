@@ -1,0 +1,13 @@
+#' Title
+#'
+#' @format A data frame with 3 variables:
+#' \describe{
+#'   \item{Year}{Description of var1}
+#'   \item{GEO}{Description of var2}
+#'   \item{Funder}{Description of var3}
+#'   \item{Performer}{Description of var4}
+#'   \item{Science type}{Description of var5}
+#'   \item{Prices}{Description of var6}
+#'   \item{VALUE}{Description of var7}
+#' }
+"data"
